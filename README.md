@@ -533,3 +533,17 @@ Future improvements to the lab may include:
 All security testing and event simulation documented in this project was performed in a controlled home-lab environment on systems owned by or explicitly authorized for testing by the project owner.
 
 This project is intended solely for cybersecurity education, defensive security research, and SOC analyst skill development.
+
+## Screenshots
+
+### SOC Analyst Home Lab Dashboard
+![SOC Dashboard](screenshots/dashboard.png)
+
+### Brute-Force Detection — Custom Rule 100101
+![Brute Force Detection](screenshots/brute-force-alert.png)
+
+### File Integrity Monitoring Detection
+![FIM Detection](screenshots/fim-detection.png)
+
+### Suspicious PowerShell Detection — Custom Rule 100102
+![PowerShell Detection](screenshots/powershell-alert.png)
