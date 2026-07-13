@@ -537,7 +537,7 @@ This project is intended solely for cybersecurity education, defensive security 
 ## Screenshots
 
 ### SOC Analyst Home Lab Dashboard
-![SOC Dashboard](screenshots/dashbord.png)
+![SOC Dashboard](screenshots/dashboard.png)
 
 ### Brute-Force Detection — Custom Rule 100101
 ![Brute Force Detection](screenshots/brute-force-alert.png)
